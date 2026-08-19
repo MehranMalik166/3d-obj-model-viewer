@@ -1,0 +1,442 @@
+{
+  "source": "female02.obj",
+  "modelFolder": "female",
+  "materialFile": "female02.mtl",
+  "format": "binary-mesh-textured",
+  "version": 3,
+  "gridSize": 4,
+  "totalVertices": 3274,
+  "totalUVs": 4935,
+  "totalFaces": 6233,
+  "bounds": {
+    "minX": -25.267794,
+    "minY": -0.248991,
+    "minZ": -22.904795,
+    "maxX": 27.773497,
+    "maxY": 167.966827,
+    "maxZ": 22.344463
+  },
+  "materials": [
+    {
+      "name": "FrontColorNoCullingID__01_-_Default1noCulli",
+      "texture": "01_-_Default1noCulling.JPG"
+    },
+    {
+      "name": "_02_-_Default1noCulli__02_-_Default1noCulli",
+      "texture": "02_-_Default1noCulling.JPG"
+    },
+    {
+      "name": "_01_-_Default1noCulli__01_-_Default1noCulli",
+      "texture": "01_-_Default1noCulling.JPG"
+    },
+    {
+      "name": "FrontColorNoCullingID__03_-_Default1noCulli",
+      "texture": "03_-_Default1noCulling.JPG"
+    },
+    {
+      "name": "_03_-_Default1noCulli__03_-_Default1noCulli",
+      "texture": "03_-_Default1noCulling.JPG"
+    },
+    {
+      "name": "FrontColorNoCullingID__02_-_Default1noCulli",
+      "texture": "02_-_Default1noCulling.JPG"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "0_1",
+      "file": "chunk_0_1.bin",
+      "vertices": 44,
+      "indices": 126,
+      "faces": 42,
+      "uvs": 44,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli"
+      ],
+      "size": 1568,
+      "center": {
+        "x": -14.0443595,
+        "y": 102.405464,
+        "z": -1.5562390000000001
+      },
+      "bounds": {
+        "minX": -17.805731,
+        "minY": 65.012924,
+        "minZ": -4.777782,
+        "maxX": -10.282988,
+        "maxY": 139.798004,
+        "maxZ": 1.665304
+      }
+    },
+    {
+      "id": "0_2",
+      "file": "chunk_0_2.bin",
+      "vertices": 1334,
+      "indices": 3738,
+      "faces": 1246,
+      "uvs": 1334,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli",
+        "FrontColorNoCullingID__03_-_Default1noCulli"
+      ],
+      "size": 46632,
+      "center": {
+        "x": -17.636691499999998,
+        "y": 102.9726715,
+        "z": 5.070062
+      },
+      "bounds": {
+        "minX": -25.267794,
+        "minY": 64.798325,
+        "minZ": -1.955649,
+        "maxX": -10.005589,
+        "maxY": 141.147018,
+        "maxZ": 12.095773
+      }
+    },
+    {
+      "id": "0_3",
+      "file": "chunk_0_3.bin",
+      "vertices": 17,
+      "indices": 30,
+      "faces": 10,
+      "uvs": 17,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli",
+        "FrontColorNoCullingID__03_-_Default1noCulli"
+      ],
+      "size": 516,
+      "center": {
+        "x": -22.592456,
+        "y": 81.540604,
+        "z": 11.101320999999999
+      },
+      "bounds": {
+        "minX": -23.162199,
+        "minY": 80.098061,
+        "minZ": 10.844902,
+        "maxX": -22.022713,
+        "maxY": 82.983147,
+        "maxZ": 11.35774
+      }
+    },
+    {
+      "id": "1_0",
+      "file": "chunk_1_0.bin",
+      "vertices": 30,
+      "indices": 81,
+      "faces": 27,
+      "uvs": 30,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli"
+      ],
+      "size": 1048,
+      "center": {
+        "x": 0.7168130000000001,
+        "y": 15.254251,
+        "z": -13.5426565
+      },
+      "bounds": {
+        "minX": -3.961456,
+        "minY": 0.86799,
+        "minZ": -18.449909,
+        "maxX": 5.395082,
+        "maxY": 29.640512,
+        "maxZ": -8.635404
+      }
+    },
+    {
+      "id": "1_1",
+      "file": "chunk_1_1.bin",
+      "vertices": 267,
+      "indices": 735,
+      "faces": 245,
+      "uvs": 267,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli",
+        "_02_-_Default1noCulli__02_-_Default1noCulli",
+        "_01_-_Default1noCulli__01_-_Default1noCulli"
+      ],
+      "size": 9276,
+      "center": {
+        "x": -4.8204525,
+        "y": 82.8900735,
+        "z": -5.792104
+      },
+      "bounds": {
+        "minX": -13.888147,
+        "minY": -0.017659,
+        "minZ": -14.691354,
+        "maxX": 4.247242,
+        "maxY": 165.797806,
+        "maxZ": 3.107146
+      }
+    },
+    {
+      "id": "1_2",
+      "file": "chunk_1_2.bin",
+      "vertices": 566,
+      "indices": 1932,
+      "faces": 644,
+      "uvs": 566,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli",
+        "_02_-_Default1noCulli__02_-_Default1noCulli",
+        "_01_-_Default1noCulli__01_-_Default1noCulli",
+        "FrontColorNoCullingID__01_-_Default1noCulli"
+      ],
+      "size": 21640,
+      "center": {
+        "x": -5.456301,
+        "y": 84.7961945,
+        "z": 6.0105565
+      },
+      "bounds": {
+        "minX": -13.835352,
+        "minY": 2.008389,
+        "minZ": -2.500797,
+        "maxX": 2.92275,
+        "maxY": 167.584,
+        "maxZ": 14.52191
+      }
+    },
+    {
+      "id": "1_3",
+      "file": "chunk_1_3.bin",
+      "vertices": 323,
+      "indices": 1407,
+      "faces": 469,
+      "uvs": 323,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli",
+        "_02_-_Default1noCulli__02_-_Default1noCulli",
+        "FrontColorNoCullingID__02_-_Default1noCulli",
+        "_01_-_Default1noCulli__01_-_Default1noCulli"
+      ],
+      "size": 13980,
+      "center": {
+        "x": -4.823462,
+        "y": 83.444504,
+        "z": 14.6127775
+      },
+      "bounds": {
+        "minX": -12.521637,
+        "minY": -0.038665,
+        "minZ": 8.844398,
+        "maxX": 2.874713,
+        "maxY": 166.927673,
+        "maxZ": 20.381157
+      }
+    },
+    {
+      "id": "2_0",
+      "file": "chunk_2_0.bin",
+      "vertices": 65,
+      "indices": 189,
+      "faces": 63,
+      "uvs": 65,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli"
+      ],
+      "size": 2324,
+      "center": {
+        "x": 4.039338,
+        "y": 16.5447185,
+        "z": -16.5501945
+      },
+      "bounds": {
+        "minX": 0.300191,
+        "minY": 3.00192,
+        "minZ": -22.904795,
+        "maxX": 7.778485,
+        "maxY": 30.087517,
+        "maxZ": -10.195594
+      }
+    },
+    {
+      "id": "2_1",
+      "file": "chunk_2_1.bin",
+      "vertices": 269,
+      "indices": 711,
+      "faces": 237,
+      "uvs": 269,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli",
+        "_02_-_Default1noCulli__02_-_Default1noCulli",
+        "_01_-_Default1noCulli__01_-_Default1noCulli"
+      ],
+      "size": 9188,
+      "center": {
+        "x": 6.9202379999999994,
+        "y": 83.7663085,
+        "z": -5.5337035
+      },
+      "bounds": {
+        "minX": -2.399303,
+        "minY": 0.86799,
+        "minZ": -13.175559,
+        "maxX": 16.239779,
+        "maxY": 166.664627,
+        "maxZ": 2.108152
+      }
+    },
+    {
+      "id": "2_2",
+      "file": "chunk_2_2.bin",
+      "vertices": 663,
+      "indices": 2400,
+      "faces": 800,
+      "uvs": 663,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli",
+        "_02_-_Default1noCulli__02_-_Default1noCulli",
+        "_01_-_Default1noCulli__01_-_Default1noCulli"
+      ],
+      "size": 26076,
+      "center": {
+        "x": 6.805898999999999,
+        "y": 83.858918,
+        "z": 5.8038175
+      },
+      "bounds": {
+        "minX": -1.706243,
+        "minY": -0.248991,
+        "minZ": -2.81918,
+        "maxX": 15.318041,
+        "maxY": 167.966827,
+        "maxZ": 14.426815
+      }
+    },
+    {
+      "id": "2_3",
+      "file": "chunk_2_3.bin",
+      "vertices": 1043,
+      "indices": 3696,
+      "faces": 1232,
+      "uvs": 1043,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli",
+        "_02_-_Default1noCulli__02_-_Default1noCulli",
+        "FrontColorNoCullingID__02_-_Default1noCulli",
+        "FrontColorNoCullingID__03_-_Default1noCulli",
+        "_01_-_Default1noCulli__01_-_Default1noCulli"
+      ],
+      "size": 40588,
+      "center": {
+        "x": 8.026009499999999,
+        "y": 83.4060755,
+        "z": 14.9129495
+      },
+      "bounds": {
+        "minX": -0.240172,
+        "minY": -0.248991,
+        "minZ": 7.481436,
+        "maxX": 16.292191,
+        "maxY": 167.061142,
+        "maxZ": 22.344463
+      }
+    },
+    {
+      "id": "3_0",
+      "file": "chunk_3_0.bin",
+      "vertices": 29,
+      "indices": 96,
+      "faces": 32,
+      "uvs": 29,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli"
+      ],
+      "size": 1108,
+      "center": {
+        "x": 24.0438215,
+        "y": 116.06427,
+        "z": -12.0251105
+      },
+      "bounds": {
+        "minX": 20.314146,
+        "minY": 109.915642,
+        "minZ": -14.975536,
+        "maxX": 27.773497,
+        "maxY": 122.212898,
+        "maxZ": -9.074685
+      }
+    },
+    {
+      "id": "3_1",
+      "file": "chunk_3_1.bin",
+      "vertices": 124,
+      "indices": 465,
+      "faces": 155,
+      "uvs": 124,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli"
+      ],
+      "size": 4976,
+      "center": {
+        "x": 20.2388325,
+        "y": 121.62635800000001,
+        "z": -6.2284774999999994
+      },
+      "bounds": {
+        "minX": 12.704168,
+        "minY": 103.770035,
+        "minZ": -13.775438,
+        "maxX": 27.773497,
+        "maxY": 139.482681,
+        "maxZ": 1.318483
+      }
+    },
+    {
+      "id": "3_2",
+      "file": "chunk_3_2.bin",
+      "vertices": 320,
+      "indices": 1308,
+      "faces": 436,
+      "uvs": 320,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli",
+        "_01_-_Default1noCulli__01_-_Default1noCulli"
+      ],
+      "size": 13392,
+      "center": {
+        "x": 18.236503,
+        "y": 104.4186475,
+        "z": 5.819988
+      },
+      "bounds": {
+        "minX": 12.905005,
+        "minY": 65.062149,
+        "minZ": -2.382073,
+        "maxX": 23.568001,
+        "maxY": 143.775146,
+        "maxZ": 14.022049
+      }
+    },
+    {
+      "id": "3_3",
+      "file": "chunk_3_3.bin",
+      "vertices": 709,
+      "indices": 1785,
+      "faces": 595,
+      "uvs": 709,
+      "materials": [
+        "_03_-_Default1noCulli__03_-_Default1noCulli",
+        "FrontColorNoCullingID__03_-_Default1noCulli"
+      ],
+      "size": 23716,
+      "center": {
+        "x": 16.5591515,
+        "y": 85.712444,
+        "z": 13.230190499999999
+      },
+      "bounds": {
+        "minX": 12.93663,
+        "minY": 65.724136,
+        "minZ": 7.936831,
+        "maxX": 20.181673,
+        "maxY": 105.700752,
+        "maxZ": 18.52355
+      }
+    }
+  ]
+}
