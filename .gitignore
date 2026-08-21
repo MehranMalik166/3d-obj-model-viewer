@@ -1,5 +1,7 @@
 node_modules/
 
+modal-viewer-old.html
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
